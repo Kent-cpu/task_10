@@ -1,0 +1,13 @@
+C:\Users\rusla\Desktop\Рабочая папка\programming\task10_programm\task10_programm\bin\Debug\netcoreapp3.1\task10_programm.exe
+C:\Users\rusla\Desktop\Рабочая папка\programming\task10_programm\task10_programm\bin\Debug\netcoreapp3.1\task10_programm.deps.json
+C:\Users\rusla\Desktop\Рабочая папка\programming\task10_programm\task10_programm\bin\Debug\netcoreapp3.1\task10_programm.runtimeconfig.json
+C:\Users\rusla\Desktop\Рабочая папка\programming\task10_programm\task10_programm\bin\Debug\netcoreapp3.1\task10_programm.runtimeconfig.dev.json
+C:\Users\rusla\Desktop\Рабочая папка\programming\task10_programm\task10_programm\bin\Debug\netcoreapp3.1\task10_programm.dll
+C:\Users\rusla\Desktop\Рабочая папка\programming\task10_programm\task10_programm\bin\Debug\netcoreapp3.1\task10_programm.pdb
+C:\Users\rusla\Desktop\Рабочая папка\programming\task10_programm\task10_programm\obj\Debug\netcoreapp3.1\task10_programm.csprojAssemblyReference.cache
+C:\Users\rusla\Desktop\Рабочая папка\programming\task10_programm\task10_programm\obj\Debug\netcoreapp3.1\task10_programm.AssemblyInfoInputs.cache
+C:\Users\rusla\Desktop\Рабочая папка\programming\task10_programm\task10_programm\obj\Debug\netcoreapp3.1\task10_programm.AssemblyInfo.cs
+C:\Users\rusla\Desktop\Рабочая папка\programming\task10_programm\task10_programm\obj\Debug\netcoreapp3.1\task10_programm.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Desktop\Рабочая папка\programming\task10_programm\task10_programm\obj\Debug\netcoreapp3.1\task10_programm.dll
+C:\Users\rusla\Desktop\Рабочая папка\programming\task10_programm\task10_programm\obj\Debug\netcoreapp3.1\task10_programm.pdb
+C:\Users\rusla\Desktop\Рабочая папка\programming\task10_programm\task10_programm\obj\Debug\netcoreapp3.1\task10_programm.genruntimeconfig.cache
